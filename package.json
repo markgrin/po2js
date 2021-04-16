@@ -1,0 +1,24 @@
+{
+  "name": "po2js",
+  "version": "1.0.0",
+  "description": "Convert .po to .js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgrin/po2js.git"
+  },
+  "keywords": [
+    "translation",
+    ".po",
+    "pootle"
+  ],
+  "author": "Lev Melnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markgrin/po2js/issues"
+  },
+  "homepage": "https://github.com/markgrin/po2js#readme"
+}
